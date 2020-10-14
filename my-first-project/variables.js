@@ -1,7 +1,7 @@
 // There is 3 different ways to declare variables in JS
 
 var one = 1;
-var two = 2;
+let two = 2;
 const three = 3;
 
 // VAR = Function scoped, can be  changed in scope, avaible before declaration
